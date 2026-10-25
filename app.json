@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "RouteFlow",
+    "slug": "routeflow",
+    "version": "1.0.0",
+    "scheme": "routeflow",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": false },
+    "android": { "edgeToEdgeEnabled": true },
+    "web": { "bundler": "metro", "output": "single" },
+    "plugins": ["expo-router"]
+  }
+}
